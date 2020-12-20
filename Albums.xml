@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO8859-1"?>
 <!-- edited with XMLSpy v2015 rel. 3 sp1 (x64) (http://www.altova.com) by Noam Lugasi (Softov Medical Systems Ltd.) -->
-<?xml-stylesheet type="text/xsl" href="new.xsl"?>
+<?xml-stylesheet type="text/xsl" href="report.xsl"?>
 <Albums>
 	<Album>
 		<Name>Empire Burlesque</Name>
