@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<!-- edited with XMLSpy v2015 rel. 3 sp1 (x64) (http://www.altova.com) by Noam Lugasi (Softov Medical Systems Ltd.) -->
+<?xml-stylesheet type="text/xsl" href="new.xsl"?>
+<Albums>
+	<Album>
+		<Name>Empire Burlesque</Name>
+		<Artist>Bob Dylan</Artist>
+		<Country>USA</Country>
+		<Company>Columbia</Company>
+		<Date>19880610</Date>
+	</Album>
+	<Album>
+		<Name>Hide your heart</Name>
+		<Artist>Bonnie Tylor</Artist>
+		<Country>UK</Country>
+		<Company>CBS Records</Company>
+		<Price>9.90</Price>
+		<Date>19880509</Date>
+	</Album>
+	<Album>
+		<Name>Greatest Hits</Name>
+		<Artist>Dolly Parton</Artist>
+		<Country>USA</Country>
+		<Company>RCA</Company>
+		<Price>9.90</Price>
+		<Date>1982</Date>
+	</Album>
+	<Album>
+		<Name>Still got the blues</Name>
+		<Artist>Gary More</Artist>
+		<Country>UK</Country>
+		<Company>Virgin redords</Company>
+		<Price>10.20</Price>
+		<Date>1990</Date>
+	</Album>
+	<Album>
+		<Name>Eros</Name>
+		<Artist>Eros Ramazzotti</Artist>
+		<Country>EU</Country>
+		<Company>BMG</Company>
+		<Price>9.90</Price>
+		<Date>1997</Date>
+	</Album>
+	<Album>
+		<Name>25</Name>
+		<Artist>Adele</Artist>
+		<Country>UK</Country>
+		<Company>XL Recordings</Company>
+		<Price>9.90</Price>
+		<Date>20151120</Date>
+	</Album>
+	<Album>
+		<Name>1000 Forms of Fear</Name>
+		<Artist>Sia</Artist>
+		<Country>USA</Country>
+		<Company>RCA Records</Company>
+		<Price>9.90</Price>
+		<Date>20140704</Date>
+	</Album>
+	<Album>
+		<Name>Rattle and Hum</Name>
+		<Artist>U2</Artist>
+		<Country>EU</Country>
+		<Company>Island</Company>
+		<Price>9.90</Price>
+		<Date>19881010</Date>
+	</Album>
+</Albums>
